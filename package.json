@@ -1,0 +1,31 @@
+{
+  "name": "socket-io-test",
+  "version": "1.0.0",
+  "description": "Socket.io tutorial/test environment",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YashdalfTheGray/socket-io-test.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/YashdalfTheGray/socket-io-test/issues"
+  },
+  "homepage": "https://github.com/YashdalfTheGray/socket-io-test#readme",
+  "devDependencies": {
+    "body-parser": "^1.14.1",
+    "chalk": "^1.1.1",
+    "del": "^2.2.0",
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-nodemon": "^2.0.4",
+    "gulp-util": "^3.0.7",
+    "lodash": "^3.10.1",
+    "mongodb": "^2.1.0",
+    "morgan": "^1.6.1"
+  }
+}
