@@ -5,8 +5,7 @@ angular.module('socketTest',
     [
         'ui.router',
         'ngAnimate',
-        'ngMaterial',
-        'firebase'
+        'ngMaterial'
     ]
 )
 .config([
